@@ -31,7 +31,7 @@ const Footer = () => {
           </div>
           
           <p className="font-sans text-sm text-muted-foreground">
-            © {currentYear} twoakt
+            © 2026 twoakt
           </p>
         </div>
       </div>
