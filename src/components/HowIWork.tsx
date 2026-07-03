@@ -33,11 +33,11 @@ const steps = [
 
 const HowIWork = () => {
   return (
-    <section id="how-i-work" className="py-24 md:py-32 bg-secondary scroll-mt-20">
+    <section id="my-approach" className="py-24 md:py-32 bg-secondary scroll-mt-20">
       <div className="container">
         <div className="text-center mb-16">
           <p className="font-sans text-sm font-medium tracking-wide uppercase text-muted-foreground mb-6">
-            How I work
+            My approach
           </p>
           <h2 className="text-headline font-display text-foreground mb-4">
             From clarity to action<span className="text-accent-brand">.</span>
