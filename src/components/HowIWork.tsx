@@ -17,7 +17,7 @@ const steps = [
   {
     number: "04",
     title: "Execution & leadership",
-    description: "I lead or support execution and bring senior marketing leadership when it matters.",
+    description: "I lead or support execution, including AI-first workflows, and bring senior marketing leadership when it matters.",
   },
   {
     number: "05",
