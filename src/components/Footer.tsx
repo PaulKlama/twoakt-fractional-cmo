@@ -2,8 +2,6 @@ import { Linkedin } from "lucide-react";
 import logoTwoakt from "@/assets/logo-twoakt-new.png";
 
 const Footer = () => {
-  const currentYear = new Date().getFullYear();
-  
   return (
     <footer className="py-12 border-t border-border">
       <div className="container">
@@ -33,7 +31,7 @@ const Footer = () => {
           </div>
           
           <p className="font-sans text-sm text-muted-foreground">
-            © {currentYear} twoakt
+            © 2026 twoakt
           </p>
         </div>
       </div>

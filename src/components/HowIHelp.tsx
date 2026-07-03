@@ -5,11 +5,11 @@ interface HowIHelpProps {
 const HowIHelp = ({
   onContactClick
 }: HowIHelpProps) => {
-  return <section id="how-i-help" className="py-24 md:py-32 scroll-mt-20 border-t border-border">
+  return <section id="ways-to-work" className="py-24 md:py-32 scroll-mt-20 border-t border-border">
       <div className="container">
         <div className="text-center mb-16">
           <p className="font-sans text-sm font-medium tracking-wide uppercase text-muted-foreground mb-6">
-            How I help
+            Ways to work together
           </p>
           <h2 className="text-headline font-display text-foreground">
             Two ways to act<span className="text-accent-brand">.</span>
@@ -35,7 +35,7 @@ const HowIHelp = ({
               <ul className="space-y-2">
                 <li className="flex items-center gap-3 font-sans text-sm text-muted-foreground">
                   <span className="w-1 h-1 rounded-full bg-foreground" />
-                  HR Tech companies scaling
+                  B2B tech scale-ups at a growth inflection point
                 </li>
                 <li className="flex items-center gap-3 font-sans text-sm text-muted-foreground">
                   <span className="w-1 h-1 rounded-full bg-foreground" />

@@ -21,9 +21,13 @@ const CTASection = ({
           <h2 className="text-headline font-display text-foreground mb-6">
             Ready to move forward<span className="text-primary">?</span>
           </h2>
-          
+
+          <p className="font-sans text-lg text-muted-foreground mb-10">
+            Let&apos;s act.
+          </p>
+
           <button onClick={handleClick} className="group font-sans font-semibold px-10 py-4 bg-foreground text-background rounded-full hover:bg-foreground/90 transition-all text-base inline-flex items-center gap-2">
-            Let's act
+            Book a call
             <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
           </button>
         </div>

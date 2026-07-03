@@ -1,7 +1,8 @@
 import { useState } from "react";
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
-import RealitySection from "@/components/RealitySection";
+import WhereIFocus from "@/components/WhereIFocus";
+import Testimonials from "@/components/Testimonials";
 import HowIHelp from "@/components/HowIHelp";
 import HowIWork from "@/components/HowIWork";
 import About from "@/components/About";
@@ -20,7 +21,8 @@ const Index = () => {
     <main className="min-h-screen bg-background">
       <Header onContactClick={handleContactClick} />
       <Hero onContactClick={handleContactClick} />
-      <RealitySection />
+      <WhereIFocus />
+      <Testimonials />
       <HowIHelp onContactClick={handleContactClick} />
       <HowIWork />
       <About />
