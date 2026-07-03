@@ -35,7 +35,7 @@ const HowIHelp = ({
               <ul className="space-y-2">
                 <li className="flex items-center gap-3 font-sans text-sm text-muted-foreground">
                   <span className="w-1 h-1 rounded-full bg-foreground" />
-                  HR Tech companies scaling
+                  B2B tech scale-ups at a growth inflection point
                 </li>
                 <li className="flex items-center gap-3 font-sans text-sm text-muted-foreground">
                   <span className="w-1 h-1 rounded-full bg-foreground" />
