@@ -33,7 +33,7 @@ const WhereIFocus = () => {
             Four pillars, one operating model<span className="text-accent-brand">.</span>
           </h2>
           <p className="font-sans text-lg text-muted-foreground leading-relaxed">
-            AI has changed what marketing leadership means. The CMOs who matter now are the ones who can set the strategy and rebuild how the work gets done. I do both, with AI at the center of how I operate.
+            AI has changed what marketing leadership means. The marketing leaders who matter now are the ones who can set the strategy and rebuild how the work gets done. I do both, with AI at the center of how I operate.
           </p>
         </div>
 
