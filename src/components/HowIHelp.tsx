@@ -17,7 +17,7 @@ const HowIHelp = ({
         </div>
         
         <div className="grid lg:grid-cols-2 gap-6">
-          {/* Fractional CMO */}
+          {/* Fractional Marketing Leader */}
           <div className="group bg-card p-8 md:p-10 rounded-2xl border border-border hover:border-foreground/20 transition-all duration-300">
             <div className="flex items-center gap-3 mb-6">
               <span className="font-display text-sm font-semibold text-muted-foreground">01</span>
@@ -25,7 +25,7 @@ const HowIHelp = ({
             </div>
             
             <h3 className="font-display text-title text-foreground mb-4">
-              Fractional CMO
+              Fractional Marketing Leader
             </h3>
             
             <p className="font-sans text-base text-muted-foreground mb-8 leading-relaxed">I step in as your senior marketing leader to bring clarity, structure, and momentum. From audit to roadmap, from execution to team leadership, I help you build marketing that supports your growth, at every stage.</p>
