@@ -1,6 +1,16 @@
 const testimonials = [
-  { company: "MyTraffic" },
-  { company: "Bloomays" },
+  { 
+    name: "Pauline Paris\u00A0", 
+    role: "CMO", 
+    company: "MyTraffic",
+    placeholder: "\n"
+  },
+  { 
+    name: "Jessica Djeziri", 
+    role: "Partner", 
+    company: "Bloomays",
+    placeholder: "\n"
+  },
 ];
 
 const Testimonials = () => {
@@ -22,18 +32,18 @@ const Testimonials = () => {
               key={t.company}
               className="bg-background/60 p-8 md:p-10 rounded-2xl border-2 border-dashed border-border"
             >
-              <p className="font-sans text-xs font-medium tracking-wide uppercase text-muted-foreground/70 mb-4">
-                Placeholder
+              <p className="font-sans text-xs font-medium tracking-wide uppercase text-muted-foreground/70 mb-4 whitespace-pre-wrap">
+                {t.placeholder}
               </p>
               <p className="font-display text-lg md:text-xl text-muted-foreground/80 italic leading-relaxed mb-8">
                 &ldquo;[Quote to be added]&rdquo;
               </p>
               <div className="space-y-1">
                 <p className="font-sans text-sm font-semibold text-foreground/70">
-                  [Name]
+                  {t.name}
                 </p>
                 <p className="font-sans text-sm text-muted-foreground/70">
-                  [Role], {t.company}
+                  {t.role}, {t.company}
                 </p>
               </div>
             </div>
