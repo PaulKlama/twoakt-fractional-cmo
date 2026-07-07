@@ -6,7 +6,7 @@ interface HeroProps {
 
 const Hero = ({ onContactClick }: HeroProps) => {
   return (
-    <section className="relative min-h-screen flex items-center justify-center pt-20">
+    <section className="relative min-h-[70vh] md:min-h-[60vh] flex items-center justify-center pt-20 pb-12">
       <div className="container relative z-10">
         <div className="max-w-3xl mx-auto text-center">
           <p className="font-sans text-sm md:text-base font-medium text-muted-foreground mb-8 animate-fade-in">
