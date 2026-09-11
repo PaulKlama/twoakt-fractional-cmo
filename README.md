@@ -1,73 +1,96 @@
-# Welcome to your Lovable project
+# Twoakt | Fractional CMO
 
-## Project info
+Objectif
+Créer une landing page claire, premium et orientée conversion pour une activité de conseil en marketing B2B appelée Phase Two.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Contexte & positionnement
+Phase Two est un marketing studio qui accompagne les entreprises dans leurs phases de croissance critiques : structuration, accélération, scale.
+La marque s’adresse à des startups, scale-ups et entreprises B2B (HR Tech ou non).
 
-## How can I edit this code?
+Ton & style
 
-There are several ways of editing your application.
+Ton expert, direct, moderne
 
-**Use Lovable**
+Pas de jargon inutile, pas de bullshit
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Positionnement senior / crédible
 
-Changes made via Lovable will be committed automatically to this repo.
+Orienté impact business
 
-**Use your preferred IDE**
+Structure attendue de la page
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Hero section avec une promesse claire
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Mise en avant de la notion de “phase two” comme moment clé de la croissance
 
-Follow these steps:
+Présentation de Phase Two et de sa proposition de valeur
+
+Présentation des deux offres :
+
+Two Grow (structuration)
+
+Two Scale (accélération & pilotage)
+
+Section “À propos” mettant en avant 10 ans d’expérience en marketing B2B / HR Tech
+
+Détail des expertises et du périmètre d’intervention
+
+Cibles et cas d’usage
+
+Call to action clair (prise de contact)
+
+Éléments de crédibilité à intégrer
+
+10 ans d’expérience en marketing B2B / HR Tech
+
+Expérience en scale-up
+
+Contexte post-acquisition par SAP
+
+Start-up early stage (pré Série A)
+
+Fusion dans un groupe européen détenu par un fonds de Private Equity
+
+Capacité à intervenir à différents niveaux de maturité
+
+Expertises à intégrer
+
+stratégie marketing & planning
+
+management & structuration d’équipes
+
+exécution opérationnelle
+
+gestion d’événements
+
+prises de parole (podcast, events, réseaux sociaux)
+
+stratégie Ads
+
+SEO avec focus sur le LLM search
+
+Objectif final
+Donner envie à des dirigeants ou responsables marketing de contacter Phase Two pour un accompagnement marketing structurant ou scalable.
+
+Voilà les éléments visuels déjà créé en PJ (logos Phase Two, two grow et two scale). Police du logo time new roman et league spartan.
+
+This project was built with [Lovable](https://lovable.dev).
+
+## Build with Lovable
+
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/e6f610e5-14bb-4c32-a310-1bc59d1a8243).
+
+- **Ship faster**: describe what you want to build and Lovable handles the code.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+
+## Development
+
+Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
+git clone <this-repository-url>
+cd <repository-name>
 npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
